@@ -151,7 +151,7 @@ export default function Page() {
 
     
       <div className="container my-5">
-        <h1 className="text-center mb-4">กัญชาดี</h1>
+        <h1 className="text-center mb-4">CANNABIS</h1>
         <div className="row">
      
           {sampleData.map((product) => (
