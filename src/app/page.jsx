@@ -151,7 +151,7 @@ export default function Page() {
 
     
       <div className="container my-5">
-        <h1 className="text-center mb-4">HIGHWORLD 420 CANNABIS</h1>
+        <h1 className="text-center mb-4">HIGH WORLD 420 CANNABIS</h1>
         <div className="row">
      
           {sampleData.map((product) => (
@@ -199,10 +199,10 @@ export default function Page() {
       <footer className="bg-dark text-white text-center py-4">
         <div className="container">
           <p className="mb-0">
-            © 2025 ร้านค้า  -
+            © 2025 ร้านค้า - HIGH WORLD 420
           </p>
           <p>
-            ติดต่อเรา: 022-970-360 | อีเมล: | Facebook: <a href="https://www.facebook.com/meedee88shopping/" className="text-white"></a>
+            ติดต่อเรา:0804165428 | อีเมล: | Facebook: <a href="https://www.facebook.com/meedee88shopping/" className="text-white"></a>
           </p>
         </div>
       </footer>
