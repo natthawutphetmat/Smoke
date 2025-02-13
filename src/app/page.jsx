@@ -142,7 +142,7 @@ export default function Page() {
       <a href="https://lin.ee/5I96lieq"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/th.png" alt="เพิ่มเพื่อน" height="36" border="0"/></a>
        
         <div className="alert alert-success mt-3">
-          📢 <strong>Pattaya Thailand</strong>  📍From Pattaya Thailand 🇹🇭 Smoke Cannabis Yelly Gummy PACKMAN.PACKWOODS.MUHAEDS.SOIL2OIL.DABWOODS. PUFFLA. FRYD
+          📢 <strong>Pattaya Thailand</strong>  📍From Pattaya Thailand 🇹🇭 Smoke Cannabis Yelly Gummy PACKMAN.PACKWOODS.MUHAEDS.<br/> SOIL2OIL.DABWOODS. PUFFLA. FRYD
         </div>
         <div className="alert alert-info">
         ☘️ Delicious, quality  Shipping worldwide 🌿🍀 Dm now !!
